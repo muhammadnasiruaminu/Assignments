@@ -1,0 +1,92 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  .flex-container{
+    display: flex;
+    width: 100%;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+  }
+  button{
+    color: white;
+  }
+  .sedans{
+    background-color: hsl(31, 77%, 52%);
+    width: 33%;
+  }
+  .suvs{
+    background-color: hsl(184, 100%, 22%);
+    width: 33%;
+  }
+  .luxury{
+    background-color: hsl(179, 100%, 13%);
+    width: 33%;
+  }
+  .button1{
+    border-radius: 20px;
+    padding: 10px;
+    background-color: hsl(31, 77%, 52%);
+    border: 1px solid white;
+    margin-bottom: 20px;
+  }
+  
+  .button2{
+    border-radius: 20px;
+    padding: 10px;
+    background-color: hsl(184, 100%, 22%);
+    border: 1px solid white;
+    
+  }
+  
+  .button3{
+    border-radius: 20px;
+    padding: 10px;
+    background-color: hsl(179, 100%, 13%);
+    border: 1px solid white;
+    margin-bottom: 30px;
+  }
+  img{
+    margin-top: 15px;
+    
+  }
+  
+  /*
+    css grid styles
+  */
+  .grid-container{
+    background-color: black;
+    margin: 2px;
+  }
+  
+  .item-1{
+    background-color: red;
+    float: left;
+    width: 60%;
+    height: 150px;
+  }
+  .item-2{
+    background-color: orange;
+    float: left;
+    width: 40%;
+    height: 150px;
+  }
+  .item-3{
+    background-color: lightgreen;
+    float: left;
+    width: 45%;
+    height: 150px;
+  }
+  .item-4{
+    background-color: lightblue;
+    float: left;
+    width: 55%;
+    height: 75px;
+  }
+  .item-5{
+    background-color: lightblue;
+    float: left;
+    width: 55%;
+    height: 75px;
+  }
