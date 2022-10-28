@@ -1,0 +1,16 @@
+.div1{
+    margin-top: 10px;
+  }
+  input, select{
+    width: 200px;
+    margin-bottom: 10px;
+  }
+
+  .div2{
+    text-align: center;
+    margin-top: 30px;
+  }
+  a{
+    text-decoration: none;
+  }
+  
